@@ -103,7 +103,7 @@
       font-weight: 100; line-height: 1.05;
       color: var(--white); margin-bottom: 1.5rem;
     }
-    .hero-title em { color: var(--gold); font-style: italic; }
+    .hero-title em { color: #ff9d3b; font-style: italic; }
 
     .hero-desc {
       font-size: 1.05rem; font-weight: 300; line-height: 1.75;
