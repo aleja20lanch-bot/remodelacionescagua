@@ -93,7 +93,7 @@
     .hero-label {
       display: inline-block;
       font-size: 0.72rem; font-weight: 900; letter-spacing: 0.3em; text-transform: uppercase;
-      color: var(--gold); margin-bottom: 1.5rem;
+      color: #ff9d3b; margin-bottom: 1.5rem;
       border-left: 3px solid var(--gold); padding-left: 1rem;
     }
 
